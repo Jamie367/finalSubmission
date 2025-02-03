@@ -159,14 +159,14 @@ nav a [href^=".docs"] ::after {
 ```
 ## photos of working document
 
-![test image of other devices, secifically the ipad pro](./imgs/Screenshot%202025-01-29%20173235.png)
-this is an image of the ipad pro with all info showing along with the lighthouse statistics
-### full page working on firefox 
+![test image of other devices, secifically the ipad pro](./imgs/Screenshot 2025-01-29 173235.jpg)
+this is an image of the ipad pro view on Google Chrome with all info showing along with the lighthouse statistics
 
+### full page working on firefox 
 ![](./imgs/fullpage.jpg)
 
 ### full page working on waterfox
-![](./imgs/fullpagebing.jpg)
+![](./imgs/fullpageBing.jpg)
 
 ### full page working on safari
 ![](/imgs/question_3_mac.jpg)
@@ -381,7 +381,7 @@ p {
 </html>
 ```
 ## valid html
-![](/imgs/question%204%20valid%20html%20.png)
+![](/imgs/question4_validHtml.jpg)
 ## google chrome
 ![](/imgs/question_4_chrome.jpg)
 ## waterfox
