@@ -381,7 +381,7 @@ p {
 </html>
 ```
 ## valid html
-![](./imgs/question%204%20valid%20html%20.png)
+![](/imgs/question%204%20valid%20html%20.png)
 ## google chrome
 ![](/imgs/question_4_chrome.jpg)
 ## waterfox
